@@ -2604,6 +2604,16 @@ input, select, textarea {
 			margin-right: 2rem;
             text-align: left;
         }
+	.image_left{
+		display: block;
+		vertical-align: middle;
+	}
+	.image_left img{
+		display: inline-block;
+		float: left;
+		vertical-align: middle;
+		max-width: 80%;
+	}
 
 	.image_right{
 		display: block;
