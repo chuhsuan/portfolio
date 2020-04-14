@@ -2595,7 +2595,8 @@ input, select, textarea {
  
             .image-middle-container img {
                 vertical-align: middle;
-				max-width: 40%;
+				float: inherit;
+				max-width: 30%;
             }
  
         .align-center-container {
